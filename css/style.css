@@ -413,7 +413,7 @@ img.error {
     position: absolute;
     width: 100%;
     top: 46.5%;
-    font-size: small;
+    font-size: 15px;
     color: var(--main-text-color);
     background-color: var(--main-background-color);
     box-shadow: var(--main-search-shadow);
