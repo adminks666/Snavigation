@@ -115,7 +115,7 @@ img.error {
 }
 
 .sou {
-    max-width: 680px;
+    max-width: 691px;
     width: calc(100% - 60px);
     animation: fade;
     -webkit-animation: fade 0.5s;
@@ -345,7 +345,7 @@ img.error {
 .search-engine {
     position: absolute;
     margin-top: 10px;
-    margin-left: 5px;
+    /* margin-left: 5px; */
     padding: 10px;
     color: var(--main-text-color);
     background-color: var(--main-background-color);
